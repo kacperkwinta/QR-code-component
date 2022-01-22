@@ -13,7 +13,7 @@ body {
   margin: 0;
   background: $body-bg;
   font-family: "Outfit", sans-serif;
-  height: 100vh;
+  min-height: 100vh;
   overflow: hidden;
   display: flex;
   justify-content: center;
