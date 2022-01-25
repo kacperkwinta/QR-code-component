@@ -59,3 +59,7 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.attribution a:focus-visible {
+  outline: 2px dashed red;
+}
