@@ -6,7 +6,7 @@ $paragraph: hsl(220, 15%, 55%);
 $main-header: hsl(218, 44%, 22%);
 
 html {
-  font-size: 15px;
+  font-size: 62.5%;
 }
 
 body {
@@ -21,29 +21,31 @@ body {
 }
 
 .box {
-  max-width: 275px;
-  padding: 1em 1em 1.5em 1em;
-  border: 1px transparent solid;
-  border-radius: 1.25em;
-  box-shadow: 0 15px 20px 0 hsla(219, 15%, 55%, 0.213);
+  max-width: 28.5rem;
+  padding: 1.8rem;
+  border: 0.1rem transparent solid;
+  border-radius: 2rem;
+  box-shadow: 0 1.5rem 2rem 0 hsla(219, 15%, 55%, 0.213);
   background: $box-background;
   text-align: center;
 }
 
 .box-image {
   width: 100%;
-  border-radius: 0.6em;
+  border-radius: 1rem;
 }
 
 .box-header {
-  font-size: 1.45rem;
+  font-size: 2.3rem;
   color: $main-header;
 }
 
 .box-paragraph {
-  font-size: 1rem;
+  font-size: 1.55rem;
   color: $paragraph;
-  line-height: 1.3;
+  line-height: 2rem;
+  margin: 0 0 2rem 0;
+  padding: 0 1.75rem;
 }
 
 .attribution {
@@ -51,15 +53,15 @@ body {
   bottom: 0;
   right: 0;
   left: 0;
-  margin-bottom: 10px;
-  font-size: 11px;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
   text-align: center;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(216, 95%, 57%);
 }
 
 .attribution a:focus-visible {
-  outline: 2px dashed red;
+  outline: 0.2rem dashed red;
 }
