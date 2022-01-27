@@ -30,17 +30,17 @@ body {
   text-align: center;
 }
 
-.box-image {
+.box__image {
   width: 100%;
   border-radius: 1rem;
 }
 
-.box-header {
+.box__header {
   font-size: 2.3rem;
   color: $main-header;
 }
 
-.box-paragraph {
+.box__paragraph {
   font-size: 1.55rem;
   color: $paragraph;
   line-height: 2rem;
