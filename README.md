@@ -2,12 +2,6 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-design.jpg)
 
-## Welcome! 👋
-
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-
-Thanks for checking my solution 😎
-
 ### Built with 💻
 
 - Semantic HTML5 markup
